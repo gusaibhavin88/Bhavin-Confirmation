@@ -1,0 +1,10 @@
+{
+  "departments": [
+    "Marketing",
+    "Human Resources",
+    "Finance",
+    "Research and Development"
+  ],
+
+  "gender": ["Male", "Female"]
+}
